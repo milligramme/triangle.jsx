@@ -1,4 +1,6 @@
-#create an equilateral triangle for indesign.jsx
+# triangle.jsx
+
+create an equilateral triangle for indesign.jsx
 
 ## Usage
 
