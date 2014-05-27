@@ -6,6 +6,8 @@ create an equilateral triangle for indesign.jsx
 
 read `example.jsx`
 
+![Screenshot](screenshot.png)
+
 ~~~javascript
 #target "indesign-7.0"
 #include "/PATH/TO/triangle/index.jsx"
